@@ -1,0 +1,39 @@
+
+
+.container{ align-items: center;
+    text-align: center;
+    width: 440px;
+    margin: 300px;
+
+}
+
+body {
+    background-image: url(image.jpg);   
+    background-size: contain;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+table{
+    margin-left: 450px;
+    margin-top: 30px;
+    border: solid 1px black;
+}
+tbody{
+    border: solid 1px black;
+
+}
+td{
+    border: solid 1px black;
+}
+tr{
+    border: solid 1px black;
+}
+#inpt {
+    border: solid black;
+
+}
+
+#pr { 
+   text-align: center;
+}
